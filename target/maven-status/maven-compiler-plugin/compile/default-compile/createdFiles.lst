@@ -1,0 +1,7 @@
+ifpb\edu\br\foodreview\controller\ProdutoController.class
+ifpb\edu\br\foodreview\model\entity\Produto.class
+ifpb\edu\br\foodreview\model\service\ProdutoService.class
+ifpb\edu\br\foodreview\FoodreviewApplication.class
+ifpb\edu\br\foodreview\model\repository\ProdutoIF.class
+ifpb\edu\br\foodreview\configuration\CorsConfiguration.class
+ifpb\edu\br\foodreview\configuration\CorsConfiguration$1.class
